@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="5540" type="24" />
+					<attribute id="EndTime" value="17440" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I used to be a slave, kept under the thumb of the Master: the bastard that made me hunt down my own kin. How did he do that, you ask?" handle="h168ea3c0g4328g455ega76fgb49eb086bfe1" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="17940" type="24" />
+					<attribute id="EndTime" value="27440" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="With the living scar you see on my cheek, this horror that takes no more than a song sung by Master dearest to control my very thoughts." handle="h2cb2bef6gdd58g42a3g8066g1f3185966287" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="27940" type="24" />
+					<attribute id="EndTime" value="43440" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="But now the tables have turned. I broke my shackles. And when I finally find him, I will make the Master sing a very different kind of song..." handle="hc809482agd5b9g48b6gb62bgc99782ca57c7" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+			</children>
+		</node>
+	</region>
+</save>

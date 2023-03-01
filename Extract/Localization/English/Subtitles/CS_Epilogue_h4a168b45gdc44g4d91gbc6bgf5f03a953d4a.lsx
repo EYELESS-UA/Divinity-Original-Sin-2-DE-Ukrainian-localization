@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1900" type="24" />
+					<attribute id="EndTime" value="5980" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Braccus Rex, the long-dead Source King raised from the dead" handle="haab17081g53a0g43e6g8e65g4451cde9581d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="5980" type="24" />
+					<attribute id="EndTime" value="9160" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="in the search for the Aeteran, vanished entirely." handle="ha6d181a3g2723g4630g83f9gdd0323da1838" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="9700" type="24" />
+					<attribute id="EndTime" value="12320" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Some say he still walks the world," handle="h4a486b9eg45bcg443eg8b5bgfc116c389505" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="12540" type="24" />
+					<attribute id="EndTime" value="15440" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="others that he has gone back underground." handle="h14a97904g47b3g4699gb60agd16e8e79edfb" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="15800" type="24" />
+					<attribute id="EndTime" value="21300" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="One thing is true - no-one has met him and returned to tell the tale." handle="h0311d984g8f93g4b5ega7fag9d11d3e1d659" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1888" type="24" />
+					<attribute id="EndTime" value="6200" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="On his return to the Empire, the Red Prince was hailed a hero." handle="hed631ea0g235dg457fgb4f6g17559b4fa138" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="6600" type="24" />
+					<attribute id="EndTime" value="12911" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="He married Sadha and they had many more dragons. Soon, the prince became the emperor." handle="h9c632008g1c6cg4425gb2e4g912973820538" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="13133" type="24" />
+					<attribute id="EndTime" value="18155" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Faced with dragons, the Void did not gain the upper hand in the Empire." handle="hb7839e84g35fbg487eg98b6g7bb326d90206" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1980" type="24" />
+					<attribute id="EndTime" value="6520" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Vulnerable as it was to the machinations of the demons who infiltrated the Houses," handle="haf6873e0g271fg45b1g92ffge6cc091702f7" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="6760" type="24" />
+					<attribute id="EndTime" value="10700" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="the Ancient Empire of lizards was soon brought to its knees." handle="h5af7d9bcgdaf7g4231g84aeg425e3d543b51" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

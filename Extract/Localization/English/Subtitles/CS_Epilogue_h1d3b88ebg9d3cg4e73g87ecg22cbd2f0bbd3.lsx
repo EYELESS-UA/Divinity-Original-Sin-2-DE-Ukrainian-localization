@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1860" type="24" />
+					<attribute id="EndTime" value="3720" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Sebille wandered the world." handle="h60ceb5eag49ceg4f15g9e42g17962fae4ddf" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="3960" type="24" />
+					<attribute id="EndTime" value="8540" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="She became a household name, famed the realm over as a travelling hero," handle="h4007c968g768cg4f07ga2ffg6205a1059d63" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="8700" type="24" />
+					<attribute id="EndTime" value="10580" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="celebrated wherever she went." handle="hc4a9c253g5811g4fdcg8973g1e880a4e7878" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="11020" type="24" />
+					<attribute id="EndTime" value="15580" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Enjoying life to the fullest, she was truly and finally free." handle="h7244b2e8gf6f6g41c0gb176g50d48ee02dc7" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

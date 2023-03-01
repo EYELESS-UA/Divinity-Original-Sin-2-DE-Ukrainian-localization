@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1880" type="24" />
+					<attribute id="EndTime" value="5000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Bloodmoon Island became particularly fecund," handle="h760efa0dg7d40g4f61g9199g5d3585b5969c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="5060" type="24" />
+					<attribute id="EndTime" value="7780" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="its soil producing the greatest crops." handle="h82b768deg57ccg4a5cgb6b1ga155936af87f" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="8060" type="24" />
+					<attribute id="EndTime" value="14340" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="A particularly crimson-fleshed orange grown on the island became a delicacy across half the world." handle="h9696af2bge6f4g4261gb8cfg1536e589251c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

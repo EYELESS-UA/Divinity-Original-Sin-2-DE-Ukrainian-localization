@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="940" type="24" />
+					<attribute id="EndTime" value="7030" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The half-demon Malady took pity on the soulless Godwoken silent monks," handle="h74a5f6f7g0db2g4eeegb6adgca516d13d72a" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="7030" type="24" />
+					<attribute id="EndTime" value="10020" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="and brought them to the Hall of Echoes." handle="hbf2668c6g9ff2g4187g9980ga517fb435ae6" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="10020" type="24" />
+					<attribute id="EndTime" value="13500" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="There, from the scraps of their souls that remained," handle="h9ff4e0c8g48dbg48ffg81b7g164aa09a335c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="13500" type="24" />
+					<attribute id="EndTime" value="16210" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="she restored them to life." handle="hb1d893a9g1daeg43a3g8a98g7004c9435243" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="16210" type="24" />
+					<attribute id="EndTime" value="20300" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Sourcerers no more, they lived out the rest of their lives," handle="h702d4b32g3d69g4d16gb046g992e942f673c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="20300" type="24" />
+					<attribute id="EndTime" value="23990" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="freed of the burden of being the Godwoken." handle="h7dd9b31bg616ag4ee1g877cg5cd85f002bb0" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="23990" type="24" />
+					<attribute id="EndTime" value="26810" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Freed from the weight of the world." handle="h13023ab8g5186g4ea3gab38g3b88975111ec" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

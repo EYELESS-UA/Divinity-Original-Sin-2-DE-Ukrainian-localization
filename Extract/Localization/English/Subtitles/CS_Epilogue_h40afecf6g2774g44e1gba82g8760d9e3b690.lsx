@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="2000" type="24" />
+					<attribute id="EndTime" value="5500" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Almira and Mihaly settled in an abandoned homestead." handle="h751340a2g26d1g489eg8fc6g43ed7abdcd14" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="5900" type="24" />
+					<attribute id="EndTime" value="8640" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The locals liked and respected Almira -" handle="hc9ad882fg6077g4acaga0abga3b81631841e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="8840" type="24" />
+					<attribute id="EndTime" value="10280" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="she never wanted for help," handle="hcce7534bg3073g4fecga975g940e1a588201" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="10500" type="24" />
+					<attribute id="EndTime" value="13040" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="and deals always fell to her favour." handle="h1aefb414g082cg4ba3ga444g70cb73953c5b" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="13540" type="24" />
+					<attribute id="EndTime" value="15740" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Outsiders were often suspicious," handle="hc1411dffgcfacg4d39g8c57gffe2f4ed048d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="15860" type="24" />
+					<attribute id="EndTime" value="18240" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="but no local would speak against her." handle="h7ff7ea50gcecdg4405gb76ag47af238d41b3" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1955" type="24" />
+					<attribute id="EndTime" value="4333" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Beast returned home as leader." handle="h3f2fab91gb1fbg403egb683g663a35b637a3" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="5020" type="24" />
+					<attribute id="EndTime" value="10200" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="When the war with the demons began, Marcus took the fight out on the open sea." handle="hc2ea1aa3gd7c1g4916g92b0g2fd0f711246b" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="10555" type="24" />
+					<attribute id="EndTime" value="12860" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="No matter how the Kingdom would fare -" handle="h1d13f100g552fg428fgb61bg2714f3609684" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="13133" type="24" />
+					<attribute id="EndTime" value="16376" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="the Beast and the Lady Vengeance sailed on." handle="h05780133g01bag471bgb1d1gddcbc1f3371b" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

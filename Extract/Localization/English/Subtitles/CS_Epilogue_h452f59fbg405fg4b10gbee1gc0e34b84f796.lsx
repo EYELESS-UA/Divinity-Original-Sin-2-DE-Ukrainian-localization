@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1977" type="24" />
+					<attribute id="EndTime" value="7533" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Beast of the Sea returned to the dwarven kingdom to lead the dwarves in the fight against the Void." handle="h7e7e5f38g6e14g4286gb3b8gecd27527091c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="8377" type="24" />
+					<attribute id="EndTime" value="14088" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="After a series of public blunders, Marcus eschewed political power and returned to the sea." handle="haa9f359dg097fg4fcaga923g51a77b6b8494" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="14844" type="24" />
+					<attribute id="EndTime" value="17733" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Beast and the Lady Vengeance sail on." handle="h7394bcd1g1ebeg4f00g9f43g2caeaa89fff8" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

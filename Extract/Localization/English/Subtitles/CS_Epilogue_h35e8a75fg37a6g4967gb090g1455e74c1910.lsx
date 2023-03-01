@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1940" type="24" />
+					<attribute id="EndTime" value="7080" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="With a small band of elves, Ifan ben-Mezd re-planted the lost forests." handle="ha9f79963gb8cdg4281g8e68gca1d8b0f8659" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="7580" type="24" />
+					<attribute id="EndTime" value="12200" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="After the first fresh shoots broke the earth, Ifan returned to the war," handle="h23792699g4bebg44eagb62agb0570036136e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="12300" type="24" />
+					<attribute id="EndTime" value="14700" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="leading the elves in service of the Divine." handle="h1097663agb18dg4744gae1agcc638e06d4a2" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="15140" type="24" />
+					<attribute id="EndTime" value="19720" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Some say Afrit, his soulwolf, walks the forests still." handle="h371bb2d2gd5b1g41d9g9688gbe15ed77b2b8" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

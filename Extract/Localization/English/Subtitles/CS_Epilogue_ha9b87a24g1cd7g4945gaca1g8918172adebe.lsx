@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1977" type="24" />
+					<attribute id="EndTime" value="4066" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Did she show mercy or strength?" handle="h1ef13243g8160g4cc6g94a3g67c837c7f36d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="4355" type="24" />
+					<attribute id="EndTime" value="7088" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Did she sacrifice others as Lucian had done?" handle="hc60e4772g8aa7g4fb9g9970g6a191eca70a0" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="7577" type="24" />
+					<attribute id="EndTime" value="9444" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Did she regret becoming Divine?" handle="hbd86567fg98c9g4f93ga4c0g6dc255499b77" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="10022" type="24" />
+					<attribute id="EndTime" value="14155" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Did she wonder if she should have given her soul and sealed the Veil?" handle="h15ee0b14gdcc1g4a57g92f0gac4e4d310b13" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

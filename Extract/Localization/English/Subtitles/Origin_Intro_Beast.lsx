@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="6000" type="24" />
+					<attribute id="EndTime" value="16000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I was just thinking about someone I used to know. My cousin. The queen, in fact. A tyrant." handle="h3bedda88g237fg4de1gb446gc3d17ff0e6cf" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="16050" type="24" />
+					<attribute id="EndTime" value="27000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value=" I tried to stop her, but - things don’t always go according to plan. She cast me out to a forgotten island, and made short work of my allies, too." handle="he9723843gcb1dg4d63gae32g4b70b1f94247" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="27050" type="24" />
+					<attribute id="EndTime" value="37000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Lucky for me, I was able to commandeer a ship, and began a new life for myself, out on the high seas." handle="h92aad397geecdg4066ga94agaca30e506b14" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="37050" type="24" />
+					<attribute id="EndTime" value="52000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value=" But I hear the Queen is at it again - and there’s something darker behind her madcap schemes this time. If I don’t stop her, I don’t know who will." handle="hcf251b4bg0aceg4f52g9568g3d1135433830" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

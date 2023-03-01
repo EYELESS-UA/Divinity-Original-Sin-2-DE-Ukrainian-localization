@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="16980" type="24" />
+					<attribute id="EndTime" value="20840" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="It all happened — like I knew it would…" handle="hd08bf482g92b8g485egbce0g9ceef27fdae2" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="24560" type="24" />
+					<attribute id="EndTime" value="27740" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="A single drop of Source magic..." handle="h09188971ge19fg4a1ag9143gb4a3ec7b7b15" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="30580" type="24" />
+					<attribute id="EndTime" value="33380" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="And, like flies to honey," handle="h52db4463g3900g428dg83e0g5527b4c5300c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="34700" type="24" />
+					<attribute id="EndTime" value="37340" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="the monsters swarmed." handle="h37565855g0ebbg47c1g94a2g280506512606" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="37520" type="24" />
+					<attribute id="EndTime" value="41240" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The rabble panicked — the carnage began." handle="hc3b0fe04ga83bg48ccgaaa9ge559b3942d53" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="42840" type="24" />
+					<attribute id="EndTime" value="47180" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="And the Magisters pointed their fingers at me." handle="h37e8cac3g67ecg4c46g94bdga88c40c176cc" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="48620" type="24" />
+					<attribute id="EndTime" value="51200" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Just as I’d planned." handle="h32ad7d39gf396g4354gb480g938db2efc6ec" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="8" type="5" />
+					<attribute id="StartTime" value="53180" type="24" />
+					<attribute id="EndTime" value="55980" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I was shackled and collared" handle="h7308e5b1g1b02g4779g93cagc617cac9b4bd" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="9" type="5" />
+					<attribute id="StartTime" value="57000" type="24" />
+					<attribute id="EndTime" value="59680" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="and sent to Fort Joy." handle="hf8b1bdb0gf544g4856g9c59g35905094ba5d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="10" type="5" />
+					<attribute id="StartTime" value="68120" type="24" />
+					<attribute id="EndTime" value="70900" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I’d come here to kill Godwoken." handle="h30fe8a28ge624g4a2dga229g98f8f0dc2409" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="11" type="5" />
+					<attribute id="StartTime" value="72380" type="24" />
+					<attribute id="EndTime" value="75900" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="But instead, I became part of their story..." handle="h66e172e1g8796g46cdgbb8eg3ef20804a6de" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

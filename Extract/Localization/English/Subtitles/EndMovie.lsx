@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="7266" type="24" />
+					<attribute id="EndTime" value="9066" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I have business with the mother..." handle="h4106d798g91c7g4006ga6d7g483264e7c333" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="9066" type="24" />
+					<attribute id="EndTime" value="10066" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I’m going to kill her." handle="h047bb57cg8c63g46fdgb50eg4489f090a259" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="15233" type="24" />
+					<attribute id="EndTime" value="17866" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Regardless I fear that you are to see this through" handle="haacd06c9gaca9g4980g9fe7g766b2155425c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="17866" type="24" />
+					<attribute id="EndTime" value="19600" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="you must walk a dark path." handle="hdb129354ge710g43cagb912gac1a9ed2eaa7" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="21933" type="24" />
+					<attribute id="EndTime" value="23833" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="You doomed us Fane..." handle="hc50f6672g0af4g453aga102g7fd432e39fe5" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="23833" type="24" />
+					<attribute id="EndTime" value="25966" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="...you doomed us all to this hell!" handle="h7d04bc83g64d1g44a4gb9abg62d9054c6ea8" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="25966" type="24" />
+					<attribute id="EndTime" value="28033" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="We still have a mission Godwoken" handle="hfbe4485fg0562g4110gadadg0ed8603bb150" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="8" type="5" />
+					<attribute id="StartTime" value="28033" type="24" />
+					<attribute id="EndTime" value="29300" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Our children..." handle="h913d057fgbf68g4c63gb16cgd745551378de" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="9" type="5" />
+					<attribute id="StartTime" value="29300" type="24" />
+					<attribute id="EndTime" value="30600" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="...they are to be Dragons?" handle="hc500ce83g2f32g4b68ga73dg094f6f8c0238" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="10" type="5" />
+					<attribute id="StartTime" value="31866" type="24" />
+					<attribute id="EndTime" value="33900" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="We’ve got choices to make..." handle="haa8690cfgd89eg4e28g919fg5f379b5d5e9c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="11" type="5" />
+					<attribute id="StartTime" value="33900" type="24" />
+					<attribute id="EndTime" value="35600" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="We can’t put em off forever." handle="h7ff8acb8g393eg4f7bgaa0eg33be05339ce9" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1933" type="24" />
+					<attribute id="EndTime" value="7844" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Captain Vonda Ablewether became the world's foremost expert on the manufacture of compasses." handle="hb752c2e2g7e73g443bgb12egc33dce149d24" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="8111" type="24" />
+					<attribute id="EndTime" value="14955" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="She died peacefully in her sleep at ninety-three, having saved hundreds and thousands of seafarers' lives..." handle="hf6e04523g8f03g447agb14eg6d6c8c8f4231" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

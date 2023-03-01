@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="1070" type="24" />
+					<attribute id="EndTime" value="2760" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="As for me..." handle="h0bb40653ge27ag4ffagb519g9eb4a8da3ea2" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="2760" type="24" />
+					<attribute id="EndTime" value="5900" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The God King never forgot my failure." handle="h3a799786g6686g4bf9ga0a6gf68e43f6d90e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="5900" type="24" />
+					<attribute id="EndTime" value="8920" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I know not why he keeps me alive." handle="h8d56d48dg5fe8g4033gb555g466d36c828cc" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="8920" type="24" />
+					<attribute id="EndTime" value="12860" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Each day may be the day that I will finally be punished." handle="h4522c8d3gd077g4f07gbbc8g670ad6d23250" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="12860" type="24" />
+					<attribute id="EndTime" value="16329" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="That I may finally pay for my sins." handle="h49a0ec10gbf7cg48e8g8c83g3a3d09d76f63" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

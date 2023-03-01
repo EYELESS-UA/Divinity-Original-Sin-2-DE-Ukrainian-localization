@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="400" type="24" />
+					<attribute id="EndTime" value="1960" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="As for me..." handle="h0bb40653ge27ag4ffagb519g9eb4a8da3ea2" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="1960" type="24" />
+					<attribute id="EndTime" value="9280" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="my last hope of ever being freed of the God King's terrible tyranny faded when the Godwoken claimed Divinity." handle="h695226f1g37b1g45d2gbb8dg3a52acb4296d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="9280" type="24" />
+					<attribute id="EndTime" value="12980" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="An eternity of pain and suffering is mine." handle="h08a0dc2cgd5c0g4d4fgb04egea891d3f6d5a" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="12980" type="24" />
+					<attribute id="EndTime" value="17710" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I cling now to the dream that one day the veil will be sealed." handle="h457f77ddg561fg4624gb13dgcff3057b1f72" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="17710" type="24" />
+					<attribute id="EndTime" value="24380" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="That one day I can be freed. That one day a new Godwoken will rise!" handle="h3c28c653g612ag49b2gbd31gb0494629415e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1840" type="24" />
+					<attribute id="EndTime" value="3780" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Fane travelled Rivellon," handle="h4aca6ec0ga9c5g4a46gafb9gc523335dbf73" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="4000" type="24" />
+					<attribute id="EndTime" value="7280" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="recording the wonders and demonic horrors he discovered." handle="h47f3b2c6g20f5g4ac4gb257g1dc56b66be21" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="7780" type="24" />
+					<attribute id="EndTime" value="11400" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="He always kept a socket peeled for signs of the Eternals," handle="hc176f6a9ge5dfg4222g93d1g67e3f9c19fc9" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="11660" type="24" />
+					<attribute id="EndTime" value="13960" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="hoping to find the wife he'd lost." handle="h08b5fe8dgd62ag4413ga23bgb629c7139198" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="14320" type="24" />
+					<attribute id="EndTime" value="16160" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="He's still looking." handle="h3f76703ag4bf9g4594ga978gfa424a0d1aa4" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

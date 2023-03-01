@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1920" type="24" />
+					<attribute id="EndTime" value="4960" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Ancient Lizard Empire opened its gates." handle="h611f986bg780bg4c20gabf4g254857b54d82" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="5140" type="24" />
+					<attribute id="EndTime" value="10040" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Houses disbanded and the Empire adopted a pluralist quasi-democracy -" handle="hdbe7c5f1g4b82g41e8gb8d5g973c3fe91a41" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="10460" type="24" />
+					<attribute id="EndTime" value="13220" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="anyone could vote for whoever they pleased." handle="hca61b8e2g29f5g4a5ag8a19ga4eeb2bad8a0" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="13480" type="24" />
+					<attribute id="EndTime" value="15860" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="As long as the House of Shadows approved." handle="h11083524gd7edg43f9gb66cg72909cbe4f31" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

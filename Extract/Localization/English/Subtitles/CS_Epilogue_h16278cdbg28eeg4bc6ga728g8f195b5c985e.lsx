@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1844" type="24" />
+					<attribute id="EndTime" value="7177" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="With Amadia silent, the priestess Gratiana left the swamps and re-entered the world." handle="h876da072g0b7cg47e8gac07g2cacdb21bbbf" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="7800" type="24" />
+					<attribute id="EndTime" value="10555" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="She founded an abbey in the Dragonspine mountains," handle="hfa5bb3bag15e6g4b82gb1aag663bea2ff849" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="10888" type="24" />
+					<attribute id="EndTime" value="16866" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="offering the last of the undead shelter from fortune-hunters, novelty-seekers, and ghouls." handle="h90a4bafdg821ag443dg94e7g8421ad5b5c92" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

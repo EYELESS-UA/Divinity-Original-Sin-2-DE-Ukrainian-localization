@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="400" type="24" />
+					<attribute id="EndTime" value="3670" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="A new Divine rose, a true heir to the Seven," handle="hb18de29dgaa12g48edgbc26g9ca63a35bd0f" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="3670" type="24" />
+					<attribute id="EndTime" value="5390" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="more powerful than ever," handle="h1b46cb01g3100g4196gab9ag3525e93c85e9" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="5390" type="24" />
+					<attribute id="EndTime" value="9390" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="and united Rivellon in its battle against the Void." handle="h49a727dfg54a3g434bgab56gcea44ad1c21c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="9390" type="24" />
+					<attribute id="EndTime" value="12700" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="All across the realm she was worshiped and adored." handle="h588774f2g1e51g4e9cg8208g6c0e66138908" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="12700" type="24" />
+					<attribute id="EndTime" value="17280" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Humans, lizards, elves and dwarves all rallied to her banner." handle="h738c11c9g299eg4688g8c81g5556048b7a1b" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="17280" type="24" />
+					<attribute id="EndTime" value="23796" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The great allegiance stood once more, but war raged on." handle="h92fa8e63gb1dbg4c9cg8be0g53aaa4e19505" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="23790" type="24" />
+					<attribute id="EndTime" value="28020" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="With the aid of the Demon Divine and his vast demonic armies," handle="hc2b012cfg1792g4559g8786g4039a613ccba" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="8" type="5" />
+					<attribute id="StartTime" value="28020" type="24" />
+					<attribute id="EndTime" value="32305" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="the God King was pushed back into the very depths of the Void." handle="h3c7e8ad0g8778g430cg931fg7fad7a1a0442" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="9" type="5" />
+					<attribute id="StartTime" value="32299" type="24" />
+					<attribute id="EndTime" value="34990" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="But he was never truly defeated." handle="hf3b810ddg62dfg4d02gaf6eg508fd22b80df" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="10" type="5" />
+					<attribute id="StartTime" value="34990" type="24" />
+					<attribute id="EndTime" value="40630" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Still, the new Divine was hailed as the greatest hero Rivellon had ever seen." handle="hca56afebg2e8ag47c3g8ceega922f0ad9b6e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="11" type="5" />
+					<attribute id="StartTime" value="40630" type="24" />
+					<attribute id="EndTime" value="43886" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Alas, harmony was not to last." handle="hc459fafag5818g4761g886cg768c1e1e7fc1" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="12" type="5" />
+					<attribute id="StartTime" value="43880" type="24" />
+					<attribute id="EndTime" value="46910" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Demon Divine desired ever more power." handle="hc28558d4g9afag4ce4g8388g59017ee5608c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="13" type="5" />
+					<attribute id="StartTime" value="46910" type="24" />
+					<attribute id="EndTime" value="51700" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The demon wars began. Rivellon was ravaged." handle="h73462cc6ge060g44adgb26egeccf87f6c39c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="14" type="5" />
+					<attribute id="StartTime" value="51700" type="24" />
+					<attribute id="EndTime" value="55470" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Divine held her ground, if barely." handle="h1c31a477g4a7fg44dfg96e0gf6ee018f3015" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="15" type="5" />
+					<attribute id="StartTime" value="55470" type="24" />
+					<attribute id="EndTime" value="61253" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Desperate, the people pray for the rise of a new Godwoken once more." handle="hb6c09947gcea2g41ecg91ceg350d45a19957" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

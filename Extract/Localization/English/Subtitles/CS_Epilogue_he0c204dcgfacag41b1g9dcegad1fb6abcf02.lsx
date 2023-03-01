@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1933" type="24" />
+					<attribute id="EndTime" value="5822" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Having performed the greatest act of necromancy ever witnessed," handle="h3b1aa576gfea9g4fc3gb123g648da971d356" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="5822" type="24" />
+					<attribute id="EndTime" value="9733" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Tarquin found the new Rivellon... unchallenging." handle="h3c8fa2e9gd59dg4a69g81b0gf05361fd5311" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="10555" type="24" />
+					<attribute id="EndTime" value="15200" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="He became obsessed with a supposed 'new world' on another plane of existence." handle="h9a66b15eg89dbg45eaga088g1168e3e3eb30" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="15755" type="24" />
+					<attribute id="EndTime" value="20555" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="One day he vanished, and was never seen in Rivellon again." handle="h5d946289gaf11g4fe0gae68g8a0a9ba78651" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

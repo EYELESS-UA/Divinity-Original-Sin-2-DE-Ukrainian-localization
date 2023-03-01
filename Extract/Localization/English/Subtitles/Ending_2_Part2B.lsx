@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="543" type="24" />
+					<attribute id="EndTime" value="2176" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="As for me..." handle="h0bb40653ge27ag4ffagb519g9eb4a8da3ea2" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="2170" type="24" />
+					<attribute id="EndTime" value="6003" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I was freed of the tyranny of the God King." handle="h5b4bf812g44e6g493ag9345g58a4acf4e357" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="6000" type="24" />
+					<attribute id="EndTime" value="14136" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="To atone for my sins in this world I spent the rest of my days taking care of the sick and elderly." handle="h46a9ba1bg317fg48e5g8619g9aee506763b3" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="14136" type="24" />
+					<attribute id="EndTime" value="18990" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I would tell the story of the Godwoken to anyone who would listen." handle="hd98b1a0cg8bb5g48f7ga8d8gbf7299024e73" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="18990" type="24" />
+					<attribute id="EndTime" value="24026" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The story of the greatest heroes Rivellon had ever known." handle="h5b83f892ge378g4c1cg9be7ge7e22dc7697a" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="24020" type="24" />
+					<attribute id="EndTime" value="29003" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The heroes who chose to not close the veil." handle="h8ee7fc2cg745dg4609g94c9g77f494ed55f4" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

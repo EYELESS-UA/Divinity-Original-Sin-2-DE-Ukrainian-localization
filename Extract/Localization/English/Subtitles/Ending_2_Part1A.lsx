@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="763" type="24" />
+					<attribute id="EndTime" value="2513" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="When the dust settled," handle="h7f6d2ec4ge96bg4e84gbda6gb090130f0074" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="2510" type="24" />
+					<attribute id="EndTime" value="4893" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="no new Divine had risen." handle="h32415c47g730fg4cc9g99f6gb3c084bcfeac" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="4890" type="24" />
+					<attribute id="EndTime" value="8656" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Instead, all Source was released into the world," handle="h821778a9gd437g4f07ga4e4g6fd1666277d1" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="8650" type="24" />
+					<attribute id="EndTime" value="12186" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="for all the people and every creature to share." handle="h44a8e375g8e29g433cgafbdg13208baf236b" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="12180" type="24" />
+					<attribute id="EndTime" value="14643" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Everyone was now a Sourcerer," handle="hd9f16950ge9f2g4725ga929ga623484d39b7" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="14640" type="24" />
+					<attribute id="EndTime" value="22090" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="and united, the peoples of Rivellon pushed back the God King into the very depths of the Void." handle="h8cb6f4e7g98fcg40c0ga645g2faa1bea35eb" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="22090" type="24" />
+					<attribute id="EndTime" value="27650" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="This ushered in a new golden age of peace and prosperity." handle="h7497bb63g4ab3g491egaa75gcc6e24f5a0ca" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="8" type="5" />
+					<attribute id="StartTime" value="27650" type="24" />
+					<attribute id="EndTime" value="30810" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="But alas, it was not to last." handle="h23332076g38e3g42aaga075g23855253d5a6" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="9" type="5" />
+					<attribute id="StartTime" value="30810" type="24" />
+					<attribute id="EndTime" value="34716" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="With many greedy for wealth, power and position," handle="hee9d20fcgcb59g431fg8a57ge58d043414a2" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="10" type="5" />
+					<attribute id="StartTime" value="34710" type="24" />
+					<attribute id="EndTime" value="37256" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="the struggle soon began anew." handle="h891b3429gec8eg45cega46ag2ce6c301a01f" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="11" type="5" />
+					<attribute id="StartTime" value="37250" type="24" />
+					<attribute id="EndTime" value="40426" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Source, the very language of creation," handle="h2a38ed12g8821g43a1g8df5gab7cd2be8016" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="12" type="5" />
+					<attribute id="StartTime" value="40420" type="24" />
+					<attribute id="EndTime" value="43323" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="was used in violence once more." handle="h6c0c151bg7258g4e29g8a3bg7bf97c585336" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="13" type="5" />
+					<attribute id="StartTime" value="43320" type="24" />
+					<attribute id="EndTime" value="47493" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The never-ending contest for power continued." handle="hd9efe56ag1226g42abgb9d9geb8b9ccd042d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

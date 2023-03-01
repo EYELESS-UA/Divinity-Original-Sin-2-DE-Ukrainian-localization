@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="4540" type="24" />
+					<attribute id="EndTime" value="7420" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="After the briefest moment of respite," handle="hf2750e62g22fdg42feg83f1gd35cd9a0dda8" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="7420" type="24" />
+					<attribute id="EndTime" value="10400" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Malady brought the Godwoken to Arx" handle="h2aceddccg3467g4a04ga7d1ge1ab78a77141" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="10400" type="24" />
+					<attribute id="EndTime" value="14380" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="to recover the divine powers Dallis had snatched away" handle="h2fdbc7a2gb9c5g4e24g9c4fgef0a4d6aeb96" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="15240" type="24" />
+					<attribute id="EndTime" value="19500" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="But the half-demon’s secret was taking its toll on her." handle="hd4a32168g3cefg4b37g955dgabda9a811990" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="20500" type="24" />
+					<attribute id="EndTime" value="26180" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Aaaargggh… Lucian’s balls, that bastard is going to ruin everything...." handle="h139317d9g1de4g414fgbd13g85a31b87a6e3" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="27800" type="24" />
+					<attribute id="EndTime" value="31080" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Brace!!!! Brace! Brace! Brace!" handle="h8314cea4gdef0g45ffg8b10ga180b9875fc1" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

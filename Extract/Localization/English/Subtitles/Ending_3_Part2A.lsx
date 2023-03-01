@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="750" type="24" />
+					<attribute id="EndTime" value="2490" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="As for me..." handle="h0bb40653ge27ag4ffagb519g9eb4a8da3ea2" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="2490" type="24" />
+					<attribute id="EndTime" value="8170" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Godwoken's sacrifice severed the link that bound the Sworn to the God King," handle="hdb1811d4g3a0ag4f03gb7d8g15b2dac036e8" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="8170" type="24" />
+					<attribute id="EndTime" value="11180" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="and I was finally free." handle="hbc2884e5g3aacg4772g9637g402f8b00ba6c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="11180" type="24" />
+					<attribute id="EndTime" value="18180" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="To atone for my sins I spent the rest of my days taking care of the sick and elderly," handle="h42de160bg0cb9g4d3eg8918g7462b3ea044e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="18180" type="24" />
+					<attribute id="EndTime" value="20680" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="telling the story of the Godwoken," handle="hfa24dfcbgb200g4e33g9b9fg3bd75c76765a" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="20680" type="24" />
+					<attribute id="EndTime" value="27190" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="that the world may never forget the greatest heroes Rivellon had ever seen." handle="hd404f624g9646g4cfag8a9cg1c8bfc635ee4" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

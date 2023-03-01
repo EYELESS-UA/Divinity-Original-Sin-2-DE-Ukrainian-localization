@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="980" type="24" />
+					<attribute id="EndTime" value="3750" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Eternals reclaimed the world." handle="h608ead3eg231bg42d6gaa11gf841533d88a1" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="4960" type="24" />
+					<attribute id="EndTime" value="9550" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Dwarves, elves, lizards, and humans, all became slaves," handle="hdeb23a1cg9af4g4223gbe45g5f6b302352a7" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="9550" type="24" />
+					<attribute id="EndTime" value="13236" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="ruled over by the Sworn and the Eternals." handle="h9a994dcdga091g4f76ga7b6g6d4b358593e1" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="13230" type="24" />
+					<attribute id="EndTime" value="15783" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Relics of the old world remained," handle="h7f0c94f7gdf0dg4899ga390g9e68d2c6baff" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="15780" type="24" />
+					<attribute id="EndTime" value="18440" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="but in time they crumbled and fell," handle="h0a8fb2a1g48cdg4509gaf26g933762f759ae" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="18440" type="24" />
+					<attribute id="EndTime" value="21596" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="like the memories of the peoples who had built them," handle="hb7fb2c9dg5ac4g4fe5g963bgbcca60d9f2c8" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="21590" type="24" />
+					<attribute id="EndTime" value="25516" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="lost to time like sand in the wind." handle="hfd15afb9gfd45g4660g9c6eg0867fac347d2" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="8" type="5" />
+					<attribute id="StartTime" value="26023" type="24" />
+					<attribute id="EndTime" value="28100" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="But not lost to Fane." handle="h0f321b99g4814g4b1cgab6dgaaa6ee2e51fb" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="9" type="5" />
+					<attribute id="StartTime" value="29196" type="24" />
+					<attribute id="EndTime" value="32409" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Fane would never forget." handle="h202d9c19g3e1bg41ecgb40dg4d049ae8e557" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

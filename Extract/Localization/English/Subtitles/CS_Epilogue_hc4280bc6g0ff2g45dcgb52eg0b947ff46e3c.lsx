@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="﻿1" type="5" />
+					<attribute id="StartTime" value="1933" type="24" />
+					<attribute id="EndTime" value="7200" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="With a small band of elves, Ifan ben-Mezd re-planted the lost elven forests." handle="hc7e6ac7ag352dg4089g82ddg9318f3f7bc47" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="7711" type="24" />
+					<attribute id="EndTime" value="13022" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="After the first fresh shoots broke the earth, he disappeared, and was never seen again." handle="hf0597405g0f0bg4b45g903dgce97a864bc48" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="13400" type="24" />
+					<attribute id="EndTime" value="17933" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Some say Afrit, his soulwolf, walks the forests still." handle="h371bb2d2gd5b1g41d9g9688gbe15ed77b2b8" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

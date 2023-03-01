@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="956" type="24" />
+					<attribute id="EndTime" value="5003" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The Godwoken themselves became silent monks." handle="h7e79f950gf281g41e8ga8feg2887d0427e26" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="5000" type="24" />
+					<attribute id="EndTime" value="7333" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Dallis cared for their bodies" handle="h79a225dbg102eg438cga844g4b140152bd87" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="7330" type="24" />
+					<attribute id="EndTime" value="11680" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="—the empty vessels that had once carried their formidable souls—" handle="h395dd91cg7852g4687ga984g438c86496e46" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="11680" type="24" />
+					<attribute id="EndTime" value="15376" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="until they succumbed to the ravages of time." handle="h76e3cefege50ag4967g82edgef8d2c45089c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="15370" type="24" />
+					<attribute id="EndTime" value="17103" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="They were buried in the crypt," handle="h47b221e3ga701g4483gae17g16c45136a03a" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="17100" type="24" />
+					<attribute id="EndTime" value="20800" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="where Lucian once stole the Source from the Gods," handle="h8b9fdb93gb510g4823g986dgdb22717f105d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="20800" type="24" />
+					<attribute id="EndTime" value="25810" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="and where the Godwoken made the ultimate sacrifice." handle="hac5d1379g4235g44b8ga256g482508aeae36" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

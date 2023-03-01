@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="18880" type="24" />
+					<attribute id="EndTime" value="22400" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I have plans for you, child." handle="hfdf1fb94g6063g4163g8b08g4a96a9aa79bb" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="22400" type="24" />
+					<attribute id="EndTime" value="24580" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Rise!" handle="h17ec75cfgba81g4490g93cdg0580b2451167" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="30580" type="24" />
+					<attribute id="EndTime" value="32460" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Honourable Dallis," handle="h63bb6d60gfcffg4921g8646gafc569f04b2f" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="32460" type="24" />
+					<attribute id="EndTime" value="36580" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="We lost a ship sailing Sourcerer prisoners to Fort Joy." handle="hfca2a6a7g4649g4212g9d86gf7c20323fcde" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="36580" type="24" />
+					<attribute id="EndTime" value="40500" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="We assume some escaped and broke their collars." handle="h99cf0686g1a6dg496bg8f63ge419cbf0d051" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="40500" type="24" />
+					<attribute id="EndTime" value="43200" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Their vile magic lured the Voidwoken." handle="h2ff75ea1g19d1g4aefga2e3g41b332e81ce5" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="44780" type="24" />
+					<attribute id="EndTime" value="48060" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="All who were aboard are presumed dead." handle="h28ca5abbgaa42g4ab5gb0afg4ae454b053d7" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="8" type="5" />
+					<attribute id="StartTime" value="49680" type="24" />
+					<attribute id="EndTime" value="53100" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Yours faithfully into eternity," handle="h4d229184ge18bg4f55g9c13g5da45035760e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="9" type="5" />
+					<attribute id="StartTime" value="53100" type="24" />
+					<attribute id="EndTime" value="55260" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="High Judge Orivand" handle="h7bc56d92g927ag4a65g8b13g667e11bd7e68" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="4160" type="24" />
+					<attribute id="EndTime" value="19160" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Oh, don’t stare. How would you look after aeons in some ghastly crypt? But your people are rather prone to death. Mine are not." handle="h6305b8ddgae65g4adcgb5acg45d7f0e9d07e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="20160" type="24" />
+					<attribute id="EndTime" value="34160" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="And yet when I emerged from my completely unjustified imprisonment, I found them gone, our culture forgotten, any trace of the world I knew all but obliterated." handle="hb6e02e42g66fag45f4g8971g61a34ecb8d6d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="34500" type="24" />
+					<attribute id="EndTime" value="42160" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I must even hide my true face beneath an ever-shifting mask for fear you savages will attack me!" handle="hc1ec17b3gd81dg4aebgbb48g0952ea6b5c25" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="43160" type="24" />
+					<attribute id="EndTime" value="55160" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="That is how I wander this strange world, trying to uncover the truth about a history you primitive people never even knew existed." handle="h3a3e998cgb001g4952gb08dgf8a8372dce47" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

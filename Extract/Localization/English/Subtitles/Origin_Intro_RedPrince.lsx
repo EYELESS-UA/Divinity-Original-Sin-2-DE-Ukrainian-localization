@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="6180" type="24" />
+					<attribute id="EndTime" value="13000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Famed, of course, for my unique red skin and unparalleled skills as a general of the House of War," handle="hf6f46a67g2df8g4e99g8334g36f629814172" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="13001" type="24" />
+					<attribute id="EndTime" value="20000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value=" I, the Red Prince, was raised within the vast palaces of the fabled Forbidden City." handle="h1e7719fag24aag415egb032g1e827f282fac" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="20001" type="24" />
+					<attribute id="EndTime" value="35000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="I was destined to become the next emperor, but my ambitions suffered a bit of a setback when I fell from grace for cavorting with demons." handle="hc1f75699ga19cg4cfbg9dedg315a50466d92" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="35001" type="24" />
+					<attribute id="EndTime" value="53500" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Now I'm exiled and hunted by assassins, but I assure you: I remain undaunted - and as determined as ever to claim my rightful throne!" handle="hd1ce57ccgc8c6g4ce5g91d1g1574de2c868c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

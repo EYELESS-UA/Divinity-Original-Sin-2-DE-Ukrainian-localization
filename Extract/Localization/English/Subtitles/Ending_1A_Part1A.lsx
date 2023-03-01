@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="640" type="24" />
+					<attribute id="EndTime" value="4363" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="A new Divine rose, a true heir to the Seven," handle="hb18de29dgaa12g48edgbc26g9ca63a35bd0f" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="4363" type="24" />
+					<attribute id="EndTime" value="5990" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="more powerful than ever," handle="h1b46cb01g3100g4196gab9ag3525e93c85e9" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="5990" type="24" />
+					<attribute id="EndTime" value="9990" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="and united Rivellon in its battle against the Void." handle="h49a727dfg54a3g434bgab56gcea44ad1c21c" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="9990" type="24" />
+					<attribute id="EndTime" value="14996" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="All across the realm she was loved, worshiped and adored." handle="hccc08f89gfe93g40d4g9c8ag0a1cad465810" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="5" type="5" />
+					<attribute id="StartTime" value="14990" type="24" />
+					<attribute id="EndTime" value="20000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Humans, lizards, elves and dwarves all rallied to her banner." handle="h738c11c9g299eg4688g8c81g5556048b7a1b" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="6" type="5" />
+					<attribute id="StartTime" value="20000" type="24" />
+					<attribute id="EndTime" value="25610" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The great allegiance stood once more, but the war continued." handle="h52b64cc8g1161g4555g8de5gb0c2e0de846d" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="7" type="5" />
+					<attribute id="StartTime" value="25610" type="24" />
+					<attribute id="EndTime" value="30443" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="From the depths of the Void, the God King still sought to return." handle="h228458e4gccb4g4c7dgbb49g3cd75255e74e" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

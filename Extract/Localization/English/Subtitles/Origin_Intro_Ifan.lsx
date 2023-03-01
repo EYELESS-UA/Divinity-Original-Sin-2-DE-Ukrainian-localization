@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="7930" type="24" />
+					<attribute id="EndTime" value="13270" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Once, I was a crusader for the Divine Order. I pledged my life to Lucian the Divine." handle="h929c56b7gff72g4d27g8230ga74d67f6f638" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="13470" type="24" />
+					<attribute id="EndTime" value="23020" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="But the war changed everything. He sent me to save the elves I grew up amongst. I arrived too late." handle="h68efc8ddg77b8g467agb2c3g04dbdf8e4938" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="23930" type="24" />
+					<attribute id="EndTime" value="30430" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Lucian ordered the use of Deathfog against the Black Ring, annihilating everyone I once knew in the process." handle="h04e33d1egd4bag4af0g93ffg5ce9f9030c7b" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="31800" type="24" />
+					<attribute id="EndTime" value="44000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Now, I'm a mercenary killer, one of the infamous Lone Wolves. And my next target is none other than Lucian's own son..." handle="h4bddfc78g818fg40b7g8321g495a3dcbec52" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

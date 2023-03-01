@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+	<header version="2" time="0" />
+	<version major="1" minor="3" revision="0" build="0" />
+	<region id="Subtitles">
+		<node id="root">
+			<children>
+				<node id="Subtitle">
+					<attribute id="Number" value="1" type="5" />
+					<attribute id="StartTime" value="8500" type="24" />
+					<attribute id="EndTime" value="21500" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="All my life I've been a performer, a musician; beloved and celebrated by all. But I have a secret: I'm also a playground for sprites and spirits and... worse." handle="h4f1fcd1fgf17ag4a61gb078g470b11db1169" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="2" type="5" />
+					<attribute id="StartTime" value="21600" type="24" />
+					<attribute id="EndTime" value="26800" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="The voice that rings inside me now is darker than any that came before." handle="hd235fb7fg55b5g40d1gb308g427e8b6ffc30" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="3" type="5" />
+					<attribute id="StartTime" value="28700" type="24" />
+					<attribute id="EndTime" value="39000" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Almost caused a bunch of my fans to rip each other to pieces... But you can trust me: I’ve got this under control." handle="hd0030298g8063g4e5fg84b3g5097787d9c4b" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Subtitle">
+					<attribute id="Number" value="4" type="5" />
+					<attribute id="StartTime" value="42000" type="24" />
+					<attribute id="EndTime" value="52050" type="24" />
+					<children>
+						<node id="Texts">
+							<children>
+								<node id="Text">
+									<attribute id="Text" value="Step one: Find out who - or what - is trying to take control of my mind. Step two: Make it sorry it ever tried." handle="h0a8d79cdgf8a3g4c8ag9e2fgc09c86a32be7" type="28" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
