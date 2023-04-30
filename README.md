@@ -1,4 +1,4 @@
-# DOS2DEUK
+# Divinity Original Sin 2 DE Ukrainian localization
 Неофіційний український переклад для гри Divinity: Original Sin 2 - Definitive Edition
 
 
