@@ -2,7 +2,8 @@
 ![Alt text](Assets/Divinity,%20Original%20Sin%202.png)
 Неофіційний український переклад для гри Divinity: Original Sin 2 - Definitive Edition
 
-[![Crowdin](https://badges.crowdin.net/divinity-original-sin-2-de-ukr/localized.svg)](https://crowdin.com/project/divinity-original-sin-2-de-ukr)
+
+![localization](https://img.shields.io/badge/localization-1%25-green)
 ## Скріншоти
 ![Screenshots01](https://raw.githubusercontent.com/EYELESS-UA/Divinity-Original-Sin-2-DE-Ukrainian-localization/main/Assets/20230430235541_1.jpg)
 ![Screenshots02](https://raw.githubusercontent.com/EYELESS-UA/Divinity-Original-Sin-2-DE-Ukrainian-localization/main/Assets/20230430235632_1.jpg)
